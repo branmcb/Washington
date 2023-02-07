@@ -1,0 +1,10 @@
+Assert Failed
+
+File:  C:\BuildAgent\work\acf3423fb2e59e7\CivTech\Libs\Platform\Common\Platform_TempHeap.cpp
+Line:  91
+Expression:  !m_uiCapacity
+Message:  temp heap not shutdown
+Time: 6/4/2020  15:16:07
+
+
+----------------------------------------------------------

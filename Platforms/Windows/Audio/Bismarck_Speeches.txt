@@ -1,0 +1,28 @@
+Event	ID	Name			Wwise Object Path	Notes
+	108939479	BismarckStep			\Default Work Unit\BismarckStep	
+	856710133	BismarckDeclareWar			\Default Work Unit\BismarckDeclareWar	
+	1522612257	BismarckClothMoveDress			\Default Work Unit\BismarckClothMoveDress	
+	1940075266	BismarckNeutralHello			\Default Work Unit\BismarckNeutralHello	
+	2022455399	BismarckHateHello			\Default Work Unit\BismarckHateHello	
+	2024806129	BismarckClothMoveDressLow			\Default Work Unit\BismarckClothMoveDressLow	
+	2113150519	BismarckDefeated			\Default Work Unit\BismarckDefeated	
+	3143459548	BismarckFirstMeet			\Default Work Unit\BismarckFirstMeet	
+	3762236826	BismarckAttacked			\Default Work Unit\BismarckAttacked	
+	3878908075	BismarckStepLow			\Default Work Unit\BismarckStepLow	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	75009861	BismarkHateHello	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\BismarkHateHello_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarkHateHello		461052
+	81096742	clothmovedress-002	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\clothmovedress-002_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarckClothMoveDress\clothmovedress-002		22438
+	154828797	BismarkDefeated	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\BismarkDefeated_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarkDefeated		1576188
+	189161197	BismarkFirstMeet	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\BismarkIntro_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarkFirstMeet		917244
+	255245358	BismarkNeutralHello	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\BismarkNeutralHello_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarkNeutralHello		410364
+	413264452	clothmovedress-003	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\clothmovedress-003_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarckClothMoveDress\clothmovedress-003		38710
+	468361041	BismarkAttacked	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\BismarkAttacked_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarkAttacked		977148
+	550392522	bismarckstep-003	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\bismarckstep-003_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarckStepLow\bismarckstep-003		6166
+	577475305	clothmovedress-001	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\clothmovedress-001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarckClothMoveDress\clothmovedress-001		38710
+	624497661	bismarckstep-000	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\bismarckstep-000_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarckStepLow\bismarckstep-000		4132
+	754804993	clothmovedress-000	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\clothmovedress-000_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarckClothMoveDress\clothmovedress-000		48880
+	798946174	bismarckstep-002	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\bismarckstep-002_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarckStepLow\bismarckstep-002		2098
+	1003327428	BismarkDeclareWar	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\BismarkDeclaresWar_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarkDeclareWar		1364220
+	1029929548	bismarckstep-001	C:\Users\Simon\Documents\WwiseProjects\Bismarck\.cache\Windows\SFX\bismarckstep-001_9E69E797.wem		\Actor-Mixer Hierarchy\Default Work Unit\Speech\Speech_Master\LeaderSpeech\Bism\BismarckStepLow\bismarckstep-001		4132
+
