@@ -15,7 +15,7 @@
 				<m_Fields>
 					<m_Values>
 						<Element class="AssetObjects..BLPEntryValue">
-							<m_EntryName text="American_Washington"/>
+							<m_EntryName text="Morocco_Almansur"/>
 							<m_XLPClass text="Leader"/>
 							<m_XLPPath text="leader_mod.xlp"/>
 							<m_BLPPackage text="leaders/leader_mod"/>
